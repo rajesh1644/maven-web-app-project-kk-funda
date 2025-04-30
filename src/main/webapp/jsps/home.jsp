@@ -10,7 +10,7 @@
   <p>This is a sample HTML webpage with some basic content.</p>
 
   <h2>About Us</h2>
-  <p>KK FUNDA is a platform for learning and development. We provide tech training and development services.</p>
+  <p>Rajesh Institutes is a platform for learning and development. We provide tech training and development services.</p>
 
   <h2>Our Services</h2>
   <ul>
